@@ -1,0 +1,179 @@
+.part1
+{
+    height:70px;
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    /* border: #1111 solid; */
+    background-attachment: fixed;
+    padding-top: 10px;
+}
+
+.innerpart
+{
+    align-items: flex-end;
+}
+
+.img1
+{
+
+}
+.img2
+{
+
+}
+.img3
+{
+
+}
+
+.logobox1
+{
+    height:50px;
+    width: 60px;
+    flex:1;
+    padding-left: 20px;
+}
+
+.box2
+{
+    flex: 5;
+}
+.loginbox
+{
+
+    width: 100%;
+    height: 600px;
+    justify-content: center;
+    align-items: center;
+}
+.loginimg
+{
+    height: 600px;
+    width: 400px;
+    /* justify-content: center; */
+    align-items: center;
+    margin: 45px auto 0;
+}
+
+.login
+{
+    padding: 24px 36px 0;
+}
+.loginH
+{
+    font-family:consolas;
+    font-size: 16px;
+    font-weight: 400;
+    color: #535766;
+}
+.empty
+{
+    flex:6;
+    display: flex;
+    align-items:center;
+}
+
+.emptyinner
+{
+    flex:2;
+    padding-left: 10%;
+    align-items:flex-end;
+    justify-content:center;
+
+}
+
+.part2
+{
+    height: 445px;
+    width: 100%;
+    background-size: 100% 100%;
+    padding-top: 50px;
+}
+
+.showbox
+{
+    height: 480px;
+    width: 100%;
+    margin-top: 40px;
+    margin-right: 1px;
+    margin-left: 0px;
+    margin-bottom: 10px;
+}
+
+.showbox1
+{
+    height: 480px;
+    width: 100%;
+    margin-top: 40px;
+    margin-right: 1px;
+    margin-left: 0px;
+    margin-bottom: 10px;
+}
+
+.fontdealbox
+{
+    letter-spacing: .10em;
+    max-height: 5em;
+    font-weight: 500;
+    font-size: 30px;
+}
+.dealbox
+{
+    height: 80px;
+    width: 90%;
+    margin-left: 30px;
+}
+.footerdealbox{
+    height: 80px;
+    width: auto;
+    background-color: black;
+}
+
+
+.imgdiv
+{
+    display: flex;
+    height: 380px;
+    padding-left: 3%;
+    padding-right: 3%;
+    justify-content: space-evenly;
+} 
+
+.img1dealbox
+{
+    background-color: rosybrown;
+    width: 400px;
+}
+
+.img2dealbox
+{
+    background-color: royalblue;
+    width: 400px;
+}
+
+.img3dealbox
+{
+    background-color: plum;
+    width: 400px; 
+}
+
+.img4dealbox
+{
+    background-color: purple;
+    width: 400px;
+}
+.img5dealbox
+{
+    background-color: royalblue;
+    width: 400px;
+}
+
+.endDetails
+{
+    
+}
+
+
+

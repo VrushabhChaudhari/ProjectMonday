@@ -1,0 +1,18 @@
+.navblock{
+    display: flex;
+    justify-content: space-around;
+}
+.navblock1{
+    background-color: aliceblue;
+    flex: 1;
+    width: 30%;
+}
+.navblock2{
+    background-color: hotpink;
+    flex: 1;
+    width: 60%;
+}
+/* ********************************************************* */
+.fin{
+    color: aliceblue;
+}
